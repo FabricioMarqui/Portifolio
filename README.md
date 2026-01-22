@@ -37,8 +37,6 @@ portfolio-react/
  └─ README.md
 ```
 
----
-
 ## Funcionalidades
 
 * Apresentação pessoal
@@ -49,17 +47,7 @@ portfolio-react/
 
 ---
 
-## Objetivo profissional
-
-Este portfólio foi desenvolvido com foco em **oportunidades de estágio ou vaga júnior em TI**, demonstrando:
-
-* Organização de código
-* Conhecimento em React
-* Boas práticas de front-end
-* Capacidade de construir projetos funcionais
-
----
-
 ## Licença
 
 Este projeto é de uso pessoal e educacional.
+
