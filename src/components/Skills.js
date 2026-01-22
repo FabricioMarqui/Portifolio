@@ -6,7 +6,7 @@ function Skills() {
       <ul className="skills">
         <li>React</li>
         <li>JavaScript</li>
-        <li>HTML</li>
+        <li>Java</li>
         <li>CSS</li>
         <li>Git / GitHub</li>
         <li>Laravel</li>

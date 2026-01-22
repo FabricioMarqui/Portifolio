@@ -25,6 +25,17 @@ function Projects() {
             Ver no GitHub →
           </a>
         </div>
+
+        <div className="card">
+          <h3>Bankrup</h3>
+          <p>
+           Este projeto é um simulador do jogo Bankrup, compara diferentes estratégias de jogadores por meio de simulações.
+          </p>
+          <p><strong>Tecnologias:</strong> Java</p>
+          <a href="https://github.com/FabricioMarqui/trabalhoPOO" target="_blank" rel="noreferrer">
+            Ver no GitHub →
+          </a>
+        </div>
       </div>
     </section>
   );
