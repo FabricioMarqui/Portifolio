@@ -36,6 +36,17 @@ function Projects() {
             Ver no GitHub →
           </a>
         </div>
+
+         <div className="card">
+          <h3>Landing Page Marcenaria</h3>
+          <p>
+           Site projeto é uma Landing Page profissional desenvolvida para a Marcenaria Marqui
+          </p>
+          <p><strong>Tecnologias:</strong> React, JavaScript, CSS</p>
+          <a href="https://github.com/FabricioMarqui/SiteMarcenaria" target="_blank" rel="noreferrer">
+            Ver no GitHub →
+          </a>
+        </div>
       </div>
     </section>
   );
